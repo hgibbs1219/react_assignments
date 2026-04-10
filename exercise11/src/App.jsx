@@ -11,7 +11,7 @@ function App() {
     <div>
       <h1>Hello World</h1>
       <SimpleCard title="Hello Card!" content="This is my first card!" />
-      <h2>Here is my Footer! 😀</h2>
+      <h2>Insert a footer here </h2>
     </div>
   );
 }
